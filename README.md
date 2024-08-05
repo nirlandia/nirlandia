@@ -7,7 +7,7 @@ Sobre mim:
 
 - 🔭 Atualmente trabalho como Data Analyst 
 - 🏠 Atualmente moro e trabalho no RJ
-- 🤓 Cientista de Dados aspirante
+- 😄 Cientista de Dados aspirante
 
 ## 
 
