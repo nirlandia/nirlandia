@@ -32,7 +32,7 @@ Onde pode me encontrar:
     <img align="center" alt="" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/linkedin.png?raw=true">
   </a>
 
-
+</div>
 
 <!--
 **nirlandia/nirlandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
