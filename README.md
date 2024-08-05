@@ -28,7 +28,7 @@ Principais Ferramentas:
 Onde pode me encontrar:
 <div style="display: inline_block">
   
-  <a href="https://www.linkedin.com/in/nirlandia/" target="_blank">
+  <a href="www.linkedin.com/in/argelianirlandia" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/linkedin.png?raw=true">
   </a>
 
