@@ -16,7 +16,10 @@ Principais Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/python.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/sql.png?raw=true">
-  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/db.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/db.jpg?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/ml.png?raw=true">
 </div>
 
 <br>
@@ -24,17 +27,11 @@ Principais Ferramentas:
   
 Onde pode me encontrar:
 <div style="display: inline_block">
-  <a href="https://brucefonseca.com/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
+  
+  <a href="https://www.linkedin.com/in/nirlandia/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/linkedin.png?raw=true">
   </a>
-  <a href="https://www.youtube.com/@brucefonseca1986/videos" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
-  </a>
-  <a href="https://www.linkedin.com/in/bruce-fonseca/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
-  </a>
-  <a href="https://www.instagram.com/brucefonsecapro/" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
+
 
 
 <!--
