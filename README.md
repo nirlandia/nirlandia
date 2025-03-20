@@ -27,7 +27,7 @@ Principais Ferramentas:
   <img align="center" alt="Databricks" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Databricksb.png?raw=true">
   <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Azzurreb.png?raw=true">
   <img align="center" alt="AWS" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_AWSb.png?raw=true">
-  <img align="center" alt="Oracle Cloud" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_OracleCloudb.png?raw=true">
+  <img align="center" alt="Oracle Cloud" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle Cloudb.png?raw=true">
   <img align="center" alt="Spark" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Sparkb.png?raw=true">
   <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle v2b.png?raw=true">
   </div>
