@@ -29,7 +29,7 @@ Principais Ferramentas:
   <img align="center" alt="AWS" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_AWS.png?raw=true">
   <img align="center" alt="Oracle Cloud" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_OracleCloud.png?raw=true">
   <img align="center" alt="Spark" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Spark.png?raw=true">
-  <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle.png.png?raw=true">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle.png?raw=true">
   </div>
 
 <br>
