@@ -21,15 +21,15 @@ multidisciplinares.
 Principais Ferramentas:
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/python.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Pythonb.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/sql.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
-  <img align="center" alt="Databricks" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Databricks v2.png?raw=true">
-  <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Azzurre.png?raw=true">
-  <img align="center" alt="AWS" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_AWS.png?raw=true">
-  <img align="center" alt="Oracle Cloud" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_OracleCloud.png?raw=true">
-  <img align="center" alt="Spark" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Spark.png?raw=true">
-  <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle.png?raw=true">
+  <img align="center" alt="Databricks" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Databricksb.png?raw=true">
+  <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Azzurreb.png?raw=true">
+  <img align="center" alt="AWS" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_AWSb.png?raw=true">
+  <img align="center" alt="Oracle Cloud" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_OracleCloudb.png?raw=true">
+  <img align="center" alt="Spark" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Sparkb.png?raw=true">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Logos_Oracle v2b.png?raw=true">
   </div>
 
 <br>
