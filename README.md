@@ -5,8 +5,15 @@
 
 Sobre mim:
 
-- 🔭 Atualmente trabalho como Engenheira de dados, analista de dados e Ciencia de dados,  
-- 🏠 Atualmente moro e trabalho no RJ
+Profissional com sólida formação acadêmica e experiência em Engenharia de Dados, Ciência de 
+Dados e Análise de Dados. Especialista em construção e automação de pipelines de dados, gestão de 
+Data Lakes e integração de sistemas para análise de grandes volumes de dados. 
+Domínio de tecnologias para processamento e manipulação de dados em larga escala, como Apache 
+Spark, além de experiência prática em ambientes de nuvem (Azure, AWS e Google Cloud). 
+Proficiente em Python, SQL, PL/SQL e ferramentas de BI como Power BI, com foco em 
+visualizações interativas e relatórios orientados à tomada de decisão. Habilidades interpessoais 
+incluem comunicação eficaz, resolução de problemas complexos e liderança em equipes 
+multidisciplinares. 
 
 
 ## 
