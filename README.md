@@ -1,7 +1,7 @@
 
-### Hello world, I'm Argélia Nirlandia 👋
+### Olá, sou Argélia Nirlandia 👋
 
-## Analista de Dados <br> DBA Oracle
+## Engenheira de Dados <br> Analista de Dados <br> Cientista de Dados <br> DBA Oracle
 
 Sobre mim:
 
