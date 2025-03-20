@@ -5,9 +5,9 @@
 
 Sobre mim:
 
-- 🔭 Atualmente trabalho como Data Analyst 
+- 🔭 Atualmente trabalho como Engenheira de dados, analista de dados e Ciencia de dados,  
 - 🏠 Atualmente moro e trabalho no RJ
-- 😄 Cientista de Dados aspirante
+
 
 ## 
 
