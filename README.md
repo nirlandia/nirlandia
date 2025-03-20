@@ -20,6 +20,7 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/db.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/db.jpg?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/ml.png?raw=true">
+  <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/ml.png?raw=true">
 </div>
 
 <br>
