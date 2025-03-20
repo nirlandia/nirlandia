@@ -19,8 +19,9 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/oracle.png?raw=true">
   <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/Azure.png?raw=true">
-    <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/databricks.png?raw=true">
-
+  <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/databricks.png?raw=true">
+   <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/oraclecloud.png?raw=true">
+ <img align="center" alt="Azure" height="40" width="40" src="https://github.com/nirlandia/AdventureWorkPortifolio/blob/main/databricks.png?raw=true">
 </div>
 
 <br>
